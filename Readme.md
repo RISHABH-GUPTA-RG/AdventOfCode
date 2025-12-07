@@ -16,8 +16,8 @@ Advent of Code is an Advent calendar of small programming puzzles created by [Er
 
 | Day | Title | Part 1 | Part 2 | Solution |
 |-----|-------|--------|--------|----------|
-| 01 | [Secret Entrance](https://adventofcode.com/2024/day/1) | ⭐ | ⭐ | [Solution](.2025/Day1/) |
-| 02 | [TBD](https://adventofcode.com/2024/day/2) | - | - | [Solution](.2025/Day2/) |
+| 01 | [Secret Entrance](https://adventofcode.com/2024/day/1) | ⭐ | ⭐ | [Solution](./2025/Day1/) |
+| 02 | [TBD](https://adventofcode.com/2024/day/2) | - | - | [Solution](./2025/Day2/) |
 
 
 **Total Stars: 2/50** ⭐
