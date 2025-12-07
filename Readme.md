@@ -43,8 +43,8 @@ advent-of-code-2024/
 Each day's folder contains:
 - `README.md` - Problem description
 - `input.txt` - Puzzle input
-- `Day1_part1.*` - Solution code for part 1
-- `Day1_part2.*` - Solution code for part 2
+- `Day1_part1.cpp` - Solution code for part 1
+- `Day1_part2.cpp` - Solution code for part 2
 - `test_input.txt` - Example input from problem description
 
 ```bash
