@@ -17,7 +17,7 @@ Advent of Code is an Advent calendar of small programming puzzles created by [Er
 | Day | Title | Part 1 | Part 2 | Solution |
 |-----|-------|--------|--------|----------|
 | 01 | [Secret Entrance](https://adventofcode.com/2024/day/1) | ⭐ | ⭐ | [Solution](./2025/Day1/) |
-| 02 | [TBD](https://adventofcode.com/2024/day/2) | - | - | [Solution](./2025/Day2/) |
+| 02 | [Gift Shop](https://adventofcode.com/2024/day/2) | ⭐ | ⭐ | [Solution](./2025/Day2/) |
 
 
 **Total Stars: 2/50** ⭐
@@ -43,7 +43,8 @@ advent-of-code-2024/
 Each day's folder contains:
 - `README.md` - Problem description
 - `input.txt` - Puzzle input
-- `solution.*` - Solution code
+- `Day1_part1.*` - Solution code for part 1
+- `Day1_part2.*` - Solution code for part 2
 - `test_input.txt` - Example input from problem description
 
 ```bash
