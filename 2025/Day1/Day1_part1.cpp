@@ -3,8 +3,8 @@ using namespace std;
 
 int main()
 {
-    // ifstream file("./Day1_input.txt");
-    ifstream file("./Day1_training.txt");
+    ifstream file("./input.txt");
+    // ifstream file("./test.txt");
     if (!file.is_open())
     {
         cerr << "Error opening file" << endl;
