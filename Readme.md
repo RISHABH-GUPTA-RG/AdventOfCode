@@ -1,6 +1,6 @@
-# 🎄 Advent of Code 2024
+# 🎄 Advent of Code 2025
 
-My solutions for [Advent of Code 2024](https://adventofcode.com/2024) - an annual coding event with daily programming puzzles throughout December.
+My solutions for [Advent of Code 2025](https://adventofcode.com/2025) - an annual coding event with daily programming puzzles throughout December.
 
 ## About Advent of Code
 
