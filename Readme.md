@@ -16,16 +16,14 @@ Advent of Code is an Advent calendar of small programming puzzles created by [Er
 
 | Day | Title | Part 1 | Part 2 | Solution |
 |-----|-------|--------|--------|----------|
-| 01 | [Secret Entrance](https://adventofcode.com/2024/day/1) | ⭐ | ⭐ | [Solution](./2025/Day1/) |
-| 02 | [Gift Shop](https://adventofcode.com/2024/day/2) | ⭐ | ⭐ | [Solution](./2025/Day2/) |
-
-
-**Total Stars: 2/50** ⭐
+| 01 | [Secret Entrance](https://adventofcode.com/2025/day/1) | ⭐ | ⭐ | [Solution](./2025/Day1/) |
+| 02 | [Gift Shop](https://adventofcode.com/2025/day/2) | ⭐ | ⭐ | [Solution](./2025/Day2/) |
+| 02 | [Gift Shop](https://adventofcode.com/2025/day/3) | ⭐ | ⭐ | [Solution](./2025/Day3/) |
 
 ## Repository Structure
 
 ```
-advent-of-code-2024/
+advent-of-code/
 ├── README.md
 ├── Day1/
 │   ├── README.md
