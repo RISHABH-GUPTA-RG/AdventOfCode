@@ -18,8 +18,9 @@ Advent of Code is an Advent calendar of small programming puzzles created by [Er
 |-----|-------|--------|--------|----------|
 | 01 | [Secret Entrance](https://adventofcode.com/2025/day/1) | ⭐ | ⭐ | [Solution](./2025/Day1/) |
 | 02 | [Gift Shop](https://adventofcode.com/2025/day/2) | ⭐ | ⭐ | [Solution](./2025/Day2/) |
-| 02 | [Lobby](https://adventofcode.com/2025/day/3) | ⭐ | ⭐ | [Solution](./2025/Day3/) |
-| 02 | [Printing Department](https://adventofcode.com/2025/day/4) | ⭐ | ⭐ | [Solution](./2025/Day4/) |
+| 03 | [Lobby](https://adventofcode.com/2025/day/3) | ⭐ | ⭐ | [Solution](./2025/Day3/) |
+| 04 | [Printing Department](https://adventofcode.com/2025/day/4) | ⭐ | ⭐ | [Solution](./2025/Day4/) |
+| 05 | [Cafeteria](https://adventofcode.com/2025/day/5) | ⭐ | ⭐ | [Solution](./2025/Day5/) |
 
 ## Repository Structure
 
