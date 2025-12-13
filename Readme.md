@@ -22,6 +22,7 @@ Advent of Code is an Advent calendar of small programming puzzles created by [Er
 | 04 | [Printing Department](https://adventofcode.com/2025/day/4) | ⭐ | ⭐ | [Solution](./2025/Day4/) |
 | 05 | [Cafeteria](https://adventofcode.com/2025/day/5) | ⭐ | ⭐ | [Solution](./2025/Day5/) |
 | 06 | [Trash Compactor](https://adventofcode.com/2025/day/6) | ⭐ | ⭐ | [Solution](./2025/Day6/) |
+| 07 | [Laboratories](https://adventofcode.com/2025/day/7) | ⭐ | ⭐ | [Solution](./2025/Day7/) |
 
 ## Repository Structure
 
